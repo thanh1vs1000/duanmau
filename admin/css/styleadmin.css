@@ -1,0 +1,7 @@
+table tr{
+	border: 1px solid black;
+	text-align: center;
+}
+tr td img{ width: 30px; height: 30px; }
+#back{background: #fff;}
+
